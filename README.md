@@ -26,3 +26,7 @@ pip install SpeechRecognition
 4. Analyze Sentiment
 
 Click the "Record" button to start recording audio. Speak a message, and the prototype will display the sentiment analysis results.
+
+## Note
+
+This is a working prototype meant for demonstration purposes. The full project contains additional features and functionalities. This prototype serves as a simple example of how the sentiment analysis of incoming calls in a helpdesk setting could be implemented.
